@@ -1,6 +1,6 @@
 ## 42 C++ Piscine (Modules 00-09)
 
-The **C++ Piscine** consists of **9 modules (CPP00 → CPP09)** that progressively introduce object-oriented programming, STL, and modern C++ patterns, building on your C foundation.
+The **C++ Piscine** consists of **9 modules (CPP00 → CPP09)** that progressively introduce object-oriented programming, STL, and modern C++ patterns, building on C foundation.
 
 ## Module Overview
 
